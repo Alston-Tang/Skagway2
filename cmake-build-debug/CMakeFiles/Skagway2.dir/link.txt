@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Skagway2.dir/main2.cpp.o  -o Skagway2 -luvc -lusb-1.0 libcamera.a libframe_writer.a -lglog -lpthread libcamera.a -lfolly -lstdc++fs 

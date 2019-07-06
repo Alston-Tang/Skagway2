@@ -1,0 +1,6 @@
+/home/tang/works/Skagway2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tang/works/Skagway2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tang/works/Skagway2/cmake-build-debug/CMakeFiles/Skagway2.dir
+/home/tang/works/Skagway2/cmake-build-debug/CMakeFiles/camera.dir
+/home/tang/works/Skagway2/cmake-build-debug/CMakeFiles/test.dir
+/home/tang/works/Skagway2/cmake-build-debug/CMakeFiles/frame_writer.dir

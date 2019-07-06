@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tang/works/Skagway2/Camera.h
+libuvc/libuvc.h
+-
+folly/MPMCQueue.h
+-
+memory
+-
+
+/home/tang/works/Skagway2/FrameWriter.h
+thread
+-
+Camera.h
+/home/tang/works/Skagway2/Camera.h
+
+/home/tang/works/Skagway2/main2.cpp
+libusb.h
+-
+folly/ScopeGuard.h
+-
+folly/container/F14Map.h
+-
+glog/logging.h
+-
+libuvc/libuvc.h
+-
+experimental/filesystem
+-
+Camera.h
+/home/tang/works/Skagway2/Camera.h
+FrameWriter.h
+/home/tang/works/Skagway2/FrameWriter.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libframe_writer.a  CMakeFiles/frame_writer.dir/FrameWriter.cpp.o
+/usr/bin/ranlib libframe_writer.a
